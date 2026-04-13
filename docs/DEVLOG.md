@@ -1,3 +1,4 @@
 - 2026-04-10 docs: expand readme (8559)
 - 2026-04-12 test: add manual checklist (8544)
 - 2026-04-12 perf: avoid rebuilds (17915)
+- 2026-04-13 chore: cleanup (17819)
