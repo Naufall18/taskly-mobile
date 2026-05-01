@@ -3,3 +3,4 @@
 - 2026-04-12 perf: avoid rebuilds (17915)
 - 2026-04-13 chore: cleanup (17819)
 - 2026-05-01 chore: cleanup (26997)
+- 2026-05-01 refactor: rename locals (21416)
