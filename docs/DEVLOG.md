@@ -5,3 +5,4 @@
 - 2026-05-01 chore: cleanup (26997)
 - 2026-05-01 refactor: rename locals (21416)
 - 2026-05-01 style: card spacing (32101)
+- 2026-05-06 fix: guard empty title (11478)
