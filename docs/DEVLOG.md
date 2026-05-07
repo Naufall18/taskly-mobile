@@ -7,3 +7,4 @@
 - 2026-05-01 style: card spacing (32101)
 - 2026-05-06 fix: guard empty title (11478)
 - 2026-05-06 style: tweak padding (5868)
+- 2026-05-07 docs: expand readme (26423)
