@@ -9,3 +9,4 @@
 - 2026-05-06 style: tweak padding (5868)
 - 2026-05-07 docs: expand readme (26423)
 - 2026-05-11 docs: expand readme (18029)
+- 2026-05-11 fix: guard empty title (26748)
