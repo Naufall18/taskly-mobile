@@ -13,3 +13,4 @@
 - 2026-05-13 style: tweak padding (14497)
 - 2026-05-15 refactor: extract helper (22583)
 - 2026-05-15 fix: guard empty title (24525)
+- 2026-05-24 perf: avoid rebuilds (3460)
