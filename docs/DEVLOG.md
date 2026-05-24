@@ -15,3 +15,4 @@
 - 2026-05-15 fix: guard empty title (24525)
 - 2026-05-24 perf: avoid rebuilds (3460)
 - 2026-05-24 fix: guard empty title (24307)
+- 2026-05-24 fix: guard empty title (26554)
