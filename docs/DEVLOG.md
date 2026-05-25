@@ -16,3 +16,4 @@
 - 2026-05-24 perf: avoid rebuilds (3460)
 - 2026-05-24 fix: guard empty title (24307)
 - 2026-05-24 fix: guard empty title (26554)
+- 2026-05-25 refactor: extract helper (13951)
