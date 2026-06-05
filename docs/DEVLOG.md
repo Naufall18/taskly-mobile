@@ -24,3 +24,4 @@
 - 2026-05-29 style: card spacing (23355)
 - 2026-05-31 perf: avoid rebuilds (13513)
 - 2026-06-01 perf: avoid rebuilds (23899)
+- 2026-06-05 perf: avoid rebuilds (17817)
