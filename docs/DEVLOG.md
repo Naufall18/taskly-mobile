@@ -27,3 +27,4 @@
 - 2026-06-05 perf: avoid rebuilds (17817)
 - 2026-06-09 refactor: tidy imports (1601)
 - 2026-06-09 refactor: tidy imports (5237)
+- 2026-06-14 docs: note follow-ups (17425)
