@@ -28,3 +28,4 @@
 - 2026-06-09 refactor: tidy imports (1601)
 - 2026-06-09 refactor: tidy imports (5237)
 - 2026-06-14 docs: note follow-ups (17425)
+- 2026-06-16 refactor: extract helper (8465)
