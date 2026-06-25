@@ -32,3 +32,4 @@
 - 2026-06-16 docs: expand readme (29224)
 - 2026-06-19 style: card spacing (21358)
 - 2026-06-24 perf: avoid rebuilds (15270)
+- 2026-06-25 test: add manual checklist (8579)
