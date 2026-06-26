@@ -33,3 +33,4 @@
 - 2026-06-19 style: card spacing (21358)
 - 2026-06-24 perf: avoid rebuilds (15270)
 - 2026-06-25 test: add manual checklist (8579)
+- 2026-06-26 style: tweak padding (9494)
