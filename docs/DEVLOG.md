@@ -34,3 +34,4 @@
 - 2026-06-24 perf: avoid rebuilds (15270)
 - 2026-06-25 test: add manual checklist (8579)
 - 2026-06-26 style: tweak padding (9494)
+- 2026-07-02 docs: update devlog (22965)
