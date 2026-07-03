@@ -35,3 +35,4 @@
 - 2026-06-25 test: add manual checklist (8579)
 - 2026-06-26 style: tweak padding (9494)
 - 2026-07-02 docs: update devlog (22965)
+- 2026-07-03 style: polish colors (24758)
