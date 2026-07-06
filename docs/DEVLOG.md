@@ -39,3 +39,4 @@
 - 2026-07-03 fix: guard empty title (2798)
 - 2026-07-03 docs: note follow-ups (21299)
 - 2026-07-06 refactor: tidy imports (22840)
+- 2026-07-06 refactor: rename locals (954)
