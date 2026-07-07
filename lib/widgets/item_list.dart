@@ -50,7 +50,19 @@ class ItemList extends StatelessWidget {
                 padding: const EdgeInsets.only(right: 20),
                 child: const Icon(Icons.delete, color: Colors.white),
               ),
-              onDismissed: (_) => repo.remove(it.id),
+              onDismissed: (_) {
+                repo.remove(it.id);
+                ScaffoldMessenger.of(context).showSnackBar(
+                  SnackBar(
+                    content: Text('${it.title} deleted'),
+                    action: SnackBarAction(
+                      label: 'UNDO',
+                      onPressed: () => repo.add(it.title, it.detail, it.value,
+                          it.flag, it.category),
+                    ),
+                  ),
+                );
+              },
               child: ListTile(
                 leading: AppConfig.usesFlag
                     ? Checkbox(
