@@ -3,3 +3,4 @@
 - 2026-07-12: docs: expand changelog notes [000]
 - 2026-07-12: docs: expand changelog notes [001]
 - 2026-07-12: chore: tidy project metadata [002]
+- 2026-07-12: docs: note follow-up ideas [003]
