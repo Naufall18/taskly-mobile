@@ -4,3 +4,4 @@
 - 2026-07-12: docs: expand changelog notes [001]
 - 2026-07-12: chore: tidy project metadata [002]
 - 2026-07-12: docs: note follow-up ideas [003]
+- 2026-07-12: docs: devlog — reviewed widget tree [004]
