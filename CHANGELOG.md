@@ -12,3 +12,4 @@ Notable changes to Taskly.
 - docs: devlog — persistence sanity check (2026-07-14-000)
 - docs: devlog — persistence sanity check (2026-07-14-001)
 - docs: note follow-up ideas (2026-07-14-002)
+- docs: devlog — checked state flow (2026-07-14-003)
