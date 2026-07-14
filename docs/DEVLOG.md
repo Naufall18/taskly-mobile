@@ -5,3 +5,4 @@
 - 2026-07-12: chore: tidy project metadata [002]
 - 2026-07-12: docs: note follow-up ideas [003]
 - 2026-07-12: docs: devlog — reviewed widget tree [004]
+- 2026-07-14: docs: devlog — persistence sanity check [000]
