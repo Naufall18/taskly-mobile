@@ -14,3 +14,4 @@ Notable changes to Taskly.
 - docs: note follow-up ideas (2026-07-14-002)
 - docs: devlog — checked state flow (2026-07-14-003)
 - test: manual QA pass on core flows (2026-07-14-004)
+- docs: expand changelog notes (2026-07-16-000)

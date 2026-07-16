@@ -10,3 +10,4 @@
 - 2026-07-14: docs: note follow-up ideas [002]
 - 2026-07-14: docs: devlog — checked state flow [003]
 - 2026-07-14: test: manual QA pass on core flows [004]
+- 2026-07-16: docs: expand changelog notes [000]
