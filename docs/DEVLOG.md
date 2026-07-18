@@ -14,3 +14,4 @@
 - 2026-07-16: test: manual QA pass on core flows [001]
 - 2026-07-18: docs: devlog — reviewed widget tree [000]
 - 2026-07-19: docs: devlog — persistence sanity check [000]
+- 2026-07-19: review readme berpasangan [002]
