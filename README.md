@@ -76,3 +76,8 @@ flutter run
 ## 📄 License
 
 MIT © [Naufall18](https://github.com/Naufall18)
+
+## Roadmap singkat
+
+- Filter tugas per kategori
+- Pengingat lokal (notifikasi)
