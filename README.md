@@ -81,3 +81,7 @@ MIT © [Naufall18](https://github.com/Naufall18)
 
 - Filter tugas per kategori
 - Pengingat lokal (notifikasi)
+
+## Kredit
+
+Direview bersama untuk konsistensi dokumentasi.
