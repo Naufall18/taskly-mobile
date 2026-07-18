@@ -17,3 +17,4 @@ Notable changes to Taskly.
 - docs: expand changelog notes (2026-07-16-000)
 - test: manual QA pass on core flows (2026-07-16-001)
 - docs: devlog — reviewed widget tree (2026-07-18-000)
+- docs: devlog — persistence sanity check (2026-07-19-000)
