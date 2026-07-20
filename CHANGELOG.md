@@ -19,3 +19,4 @@ Notable changes to Taskly.
 - docs: devlog — reviewed widget tree (2026-07-18-000)
 - docs: devlog — persistence sanity check (2026-07-19-000)
 - docs: expand changelog notes (2026-07-20-000)
+- docs: devlog — checked state flow (2026-07-20-001)
