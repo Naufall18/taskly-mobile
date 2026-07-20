@@ -17,3 +17,4 @@
 - 2026-07-19: review readme berpasangan [002]
 - 2026-07-20: docs: expand changelog notes [000]
 - 2026-07-20: docs: devlog — checked state flow [001]
+- 2026-07-20: chore: tidy project metadata [002]
